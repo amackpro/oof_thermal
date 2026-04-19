@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--/ 
+nthermal are normal thermal profile
+pthermal are performance thermal profile
+These Values are Captured from HyperOS
+Camera -> 15 
+streaming -> 7
+Social Media -> 7
+Video -> 11 / 61
+Benchmarking -> 6
+Games -> 19 / 18
+-->
 <thermal_list>
 	<app id="com.motorola.camera2" nthermal="15" pthermal="15" />
 	<app id="com.oneplus.camera" nthermal="15" pthermal="15" />
@@ -27,21 +38,21 @@
 	<app id="com.facebook.lite" nthermal="7" pthermal="7" />
 	<app id="com.facebook.mlite" nthermal="7" pthermal="7" />
 	<app id="com.facebook.orca" nthermal="7" pthermal="7" />
-	<app id="com.facebook.katana" nthermal="7" pthermal="57" />
-	<app id="com.instagram.android" nthermal="7" pthermal="57" />
-	<app id="com.twitter.android" nthermal="7" pthermal="57" />
-	<app id="com.linkedin.android" nthermal="7" pthermal="57" />
-	<app id="com.snapchat.android" nthermal="7" pthermal="57" />
-	<app id="com.zhiliaoapp.musically" nthermal="7" pthermal="57" />
-	<app id="com.pinterest" nthermal="7" pthermal="57" />
-	<app id="com.whatsapp" nthermal="7" pthermal="57" />
-	<app id="org.telegram.messenger" nthermal="7" pthermal="57" />
-	<app id="tw.nekomimi.nekogram" nthermal="7" pthermal="57" />
-	<app id="com.reddit.frontpage" nthermal="7" pthermal="57" />
-	<app id="com.tumblr" nthermal="7" pthermal="57" />
-	<app id="com.discord" nthermal="7" pthermal="57" />
-	<app id="org.thoughtcrime.securesms" nthermal="7" pthermal="57" />
-	<app id="com.tencent.mm" nthermal="7" pthermal="57" />
+	<app id="com.facebook.katana" nthermal="7" pthermal="7" />
+	<app id="com.instagram.android" nthermal="7" pthermal="7" />
+	<app id="com.twitter.android" nthermal="7" pthermal="7" />
+	<app id="com.linkedin.android" nthermal="7" pthermal="7" />
+	<app id="com.snapchat.android" nthermal="7" pthermal="7" />
+	<app id="com.zhiliaoapp.musically" nthermal="7" pthermal="7" />
+	<app id="com.pinterest" nthermal="7" pthermal="7" />
+	<app id="com.whatsapp" nthermal="7" pthermal="7" />
+	<app id="org.telegram.messenger" nthermal="7" pthermal=7" />
+	<app id="tw.nekomimi.nekogram" nthermal="7" pthermal="7" />
+	<app id="com.reddit.frontpage" nthermal="7" pthermal="7" />
+	<app id="com.tumblr" nthermal="7" pthermal="7" />
+	<app id="com.discord" nthermal="7" pthermal="7" />
+	<app id="org.thoughtcrime.securesms" nthermal="7" pthermal="7" />
+	<app id="com.tencent.mm" nthermal="7" pthermal="7" />
 	<app id="org.videolan.vlc" nthermal="11" pthermal="61" />
 	<app id="com.mxtech.videoplayer.ad" nthermal="11" pthermal="61" />
 	<app id="com.kmplayer" nthermal="11" pthermal="61" />
