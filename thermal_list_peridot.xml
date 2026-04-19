@@ -96,7 +96,7 @@ Games -> 19 / 18
 	<app id="com.pubg.imobile" nthermal="19" pthermal="18" />
 	<app id="com.pubg.krmobile" nthermal="19" pthermal="18" />
 	<app id="com.epicgames.fortnite" nthermal="19" pthermal="18" />
-	<app id="com.miHoYo.genshin" nthermal="19" pthermal="18" />
+	<app id="com.miHoYo.GenshinImpact" nthermal="19" pthermal="18" />
 	<app id="com.gameloft.android.ANMP.GloftA9HM" nthermal="19" pthermal="18" />
 	<app id="com.pearlabyss.blackdesertm" nthermal="19" pthermal="18" />
 	<app id="com.pearlabyss.blackdesertm.gl" nthermal="19" pthermal="18" />
@@ -105,4 +105,7 @@ Games -> 19 / 18
 	<app id="com.garena.game.kgvn" nthermal="19" pthermal="18" />
 	<app id="com.YoStarEN.Arknights" nthermal="19" pthermal="18" />
 	<app id="com.kurogame.wutheringwaves.global" nthermal="19" pthermal="18" />
+	<app id="com.riotgames.leagure.wildrift" nthermal="19" pthermal="18" />
+	<app id="com.garena.games.df" nthermal="19" pthermal="18" />
+	<app id="com.carxtech.sr" nthermal="19" pthermal="18" />
 </thermal_list>
